@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "editorconfig.editorconfig",
+        "svelte.svelte-vscode",
+        "Kurozero.vscode-commit-reminder",
+        "EditorConfig.EditorConfig",
+        "ms-playwright.playwright",
+        "yoavbls.pretty-ts-errors"
+    ]
+}

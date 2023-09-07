@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        ".eslintrc": "json5",
+        ".prettierrc": "json5",
+        ".prettierignore": "ignore",
+        ".eslintignore": "ignore"
+    },
+    "files.watcherExclude": {
+        "**/node_modules/**": true,
+        "**/dist/**": true,
+        "**/build/**": true,
+        "**/static/**": true
+    },
+    "search.exclude": {
+        ".git": true,
+        ".eslintcache": true,
+        "dist": true,
+        "build": true,
+        "node_modules": true
+    }
+}
